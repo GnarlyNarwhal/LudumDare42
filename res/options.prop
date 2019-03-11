@@ -1,0 +1,6 @@
+// Sets the game theme to use. Currently can only be default unless you added your own themes
+theme: default
+// Sets the texture resolution to use
+// Default themes support 720p, 1080p, 1440p, 4k, 8k
+// Setting it to dynamic will determine scale dynamically based on resolution of the monitor
+texRes: dynamic
